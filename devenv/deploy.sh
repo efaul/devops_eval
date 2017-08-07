@@ -1,6 +1,7 @@
 #!/bin/bash
 ##Build the product for deployment
 cd ./vue_test
+npm install
 npm run build
 
 ##Stop and clear the current running container
