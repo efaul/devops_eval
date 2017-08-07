@@ -8,8 +8,10 @@ Goal:
 * Make docker part of your vagrant installation (add to automation script).
 * Pull the httpd docker container.
 * Build a docker container ( https://hub.docker.com/_/httpd/ )
+* Copy the dist folder content created by vue to documentroot on Apache
 * Deploy the production version you created to a docker container.
 * Make sure that the website can be accessed using port 4000 (forward from host to docker)
+* Create a deploy script to automate all of the above.
 
 
 The steps that needs to be completed:
