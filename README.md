@@ -1,5 +1,5 @@
 Goal:
-* Create a vagrant environment for development where nodejs and npm is globally available.
+* Create a vagrant environment (xenial64) for development where nodejs and npm is globally available.
 * Install vue.js and vue-cli.
 * Automate this process so that it can be done by new developers in the future.
 * Create a vue project using the webpack template.
